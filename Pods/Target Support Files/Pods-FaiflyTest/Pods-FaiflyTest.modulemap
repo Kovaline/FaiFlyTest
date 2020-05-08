@@ -1,0 +1,6 @@
+framework module Pods_FaiflyTest {
+  umbrella header "Pods-FaiflyTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
